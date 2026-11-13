@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+data/
+checkpoints/
+*.pt
+*.pth
+figures/generated/
+.DS_Store
